@@ -70,5 +70,5 @@ pip install -r requirements.txt
 
 To run the app :
 ```bash
-streamlit run lung_cancer_app.py
+streamlit run Lung_Cancer_App.py
 ```
