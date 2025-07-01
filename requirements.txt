@@ -1,0 +1,10 @@
+# Core libraries
+numpy
+pandas
+# Machine learning
+scikit-learn
+# Visualization 
+matplotlib
+seaborn
+# Web app
+streamlit
